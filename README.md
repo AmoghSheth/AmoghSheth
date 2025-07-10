@@ -1,5 +1,8 @@
 
-Embracing and expressing resilience amid uncertainty may just unlock promise.
+<div align="center">
+  <br>
+  <p><strong>"Embracing and expressing resilience amid uncertainty may just yield promise."</strong></p>
+</div>
 
 
 # Tech Stack:
