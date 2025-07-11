@@ -4,7 +4,11 @@
 
 <div align="center">
   <br>
+  <br>
+
   <p><strong>"Embracing and expressing resilience amid uncertainty may just yield promise."</strong></p>
+  <br>
+  <br>
 </div>
 
 
