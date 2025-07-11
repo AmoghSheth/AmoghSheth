@@ -1,3 +1,6 @@
+- 👋 Hi, I’m Amogh Sheth
+- 👀 I’m a student who's interested in Artificial Intelligence & Machine Learning, App Development, and Web Development
+
 
 <div align="center">
   <br>
